@@ -1,5 +1,5 @@
 # awesome-undergrad-hackathons
-A list of Hackathons only for Undergraduate students along with implementation. The purpose of this repo is to give undergraduate students an idea about how to approach hackathons.
+A list of Hackathons only for Undergraduate students along with implementations. The purpose of this repo is to give undergraduate students an idea about how to approach hackathons by sharing with them the implementations.
 
 <br>
 
